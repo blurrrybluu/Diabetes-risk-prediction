@@ -2,8 +2,8 @@ AI-Powered Web App using PySpark, scikit-learn & Streamlit
 
 
 
-Live App  
-(https://diabetes-risk-prediction-blurrrybluu.streamlit.app)
+Live App
+[(https://huggingface.co/spaces/blurrryyybluu/diabetes-risk-predictor)]
 
 Features  
 - Predicts diabetes risk in real-time  
@@ -39,6 +39,7 @@ How to Run Locally
 ```bash
 pip install streamlit scikit-learn pandas joblib
 streamlit run app.py
+
 
 
 
