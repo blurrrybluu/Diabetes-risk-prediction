@@ -1,4 +1,4 @@
-AI-Powered Web App using PySpark, scikit-learn & Streamlit**
+AI-Powered Web App using PySpark, scikit-learn & Streamlit
 
 
 
@@ -40,4 +40,5 @@ How to Run Locally
 ```bash
 pip install streamlit scikit-learn pandas joblib
 streamlit run app.py
+
 
